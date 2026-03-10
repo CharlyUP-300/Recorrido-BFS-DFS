@@ -107,3 +107,8 @@ Para cambiar la velocidad de la animación:
 ```python
 time.sleep(1)  # cambia 1 por los segundos que quieras entre cada paso
 ```
+
+Autor: Charly Jhoan Murillo Hernandez (12200263)
+---
+
+Link del colab: https://colab.research.google.com/drive/1ozQxsPYy7FcSNodNFwj1pz5xM16kdU0g?usp=sharing
